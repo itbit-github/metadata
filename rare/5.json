@@ -2,7 +2,7 @@
   "name": "SmokR Rare #5",
   "symbol": "SMOKRR",
   "description": "SmokR Rare NFT #5",
-  "image": "https://raw.githubusercontent.com/smokr/metadata/main/assets/rare_05_pterodactyl.svg",
+  "image": "https://raw.githubusercontent.com/itbit-github/metadata/main/assets/rare_05_pterodactyl.svg",
   "attributes": [
     {
       "trait_type": "Tier",
@@ -20,7 +20,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/smokr/metadata/main/assets/rare_05_pterodactyl.svg",
+        "uri": "https://raw.githubusercontent.com/itbit-github/metadata/main/assets/rare_05_pterodactyl.svg",
         "type": "image/svg+xml"
       }
     ],

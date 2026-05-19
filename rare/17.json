@@ -2,7 +2,7 @@
   "name": "SmokR Rare #17",
   "symbol": "SMOKRR",
   "description": "SmokR Rare NFT #17",
-  "image": "https://raw.githubusercontent.com/smokr/metadata/main/assets/rare_17_sabertooth.svg",
+  "image": "https://raw.githubusercontent.com/itbit-github/metadata/main/assets/rare_17_sabertooth.svg",
   "attributes": [
     {
       "trait_type": "Tier",
@@ -20,7 +20,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/smokr/metadata/main/assets/rare_17_sabertooth.svg",
+        "uri": "https://raw.githubusercontent.com/itbit-github/metadata/main/assets/rare_17_sabertooth.svg",
         "type": "image/svg+xml"
       }
     ],

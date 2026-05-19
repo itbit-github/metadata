@@ -2,7 +2,7 @@
   "name": "SmokR Legendary #26",
   "symbol": "SMOKRL",
   "description": "SmokR Legendary NFT #26",
-  "image": "https://raw.githubusercontent.com/smokr/metadata/main/assets/legendary_11_caterpillar.svg",
+  "image": "https://raw.githubusercontent.com/itbit-github/metadata/main/assets/legendary_11_caterpillar.svg",
   "attributes": [
     {
       "trait_type": "Tier",
@@ -20,7 +20,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/smokr/metadata/main/assets/legendary_11_caterpillar.svg",
+        "uri": "https://raw.githubusercontent.com/itbit-github/metadata/main/assets/legendary_11_caterpillar.svg",
         "type": "image/svg+xml"
       }
     ],

@@ -2,7 +2,7 @@
   "name": "SmokR Rare #23",
   "symbol": "SMOKRR",
   "description": "SmokR Rare NFT #23",
-  "image": "https://raw.githubusercontent.com/smokr/metadata/main/assets/rare_23_hedgehog.svg",
+  "image": "https://raw.githubusercontent.com/itbit-github/metadata/main/assets/rare_23_hedgehog.svg",
   "attributes": [
     {
       "trait_type": "Tier",
@@ -20,7 +20,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/smokr/metadata/main/assets/rare_23_hedgehog.svg",
+        "uri": "https://raw.githubusercontent.com/itbit-github/metadata/main/assets/rare_23_hedgehog.svg",
         "type": "image/svg+xml"
       }
     ],

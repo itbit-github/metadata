@@ -2,7 +2,7 @@
   "name": "SmokR Common #2",
   "symbol": "SMOKRC",
   "description": "SmokR Common NFT #2",
-  "image": "https://raw.githubusercontent.com/smokr/metadata/main/assets/common_01_pixel_bird.svg",
+  "image": "https://raw.githubusercontent.com/itbit-github/metadata/main/assets/common_01_pixel_bird.svg",
   "attributes": [
     {
       "trait_type": "Tier",
@@ -20,7 +20,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/smokr/metadata/main/assets/common_01_pixel_bird.svg",
+        "uri": "https://raw.githubusercontent.com/itbit-github/metadata/main/assets/common_01_pixel_bird.svg",
         "type": "image/svg+xml"
       }
     ],

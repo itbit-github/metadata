@@ -1,0 +1,29 @@
+{
+  "name": "SmokR Rare #17",
+  "symbol": "SMOKRR",
+  "description": "SmokR Rare NFT #17",
+  "image": "https://raw.githubusercontent.com/smokr/metadata/main/assets/rare_17_sabertooth.svg",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Design Number",
+      "value": 17
+    },
+    {
+      "trait_type": "Max Supply",
+      "value": 10
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/smokr/metadata/main/assets/rare_17_sabertooth.svg",
+        "type": "image/svg+xml"
+      }
+    ],
+    "category": "image"
+  }
+}

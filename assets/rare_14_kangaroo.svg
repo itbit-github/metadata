@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="512" height="512">
+    <!-- Ears -->
+    <rect x="6" y="1" width="2" height="5" fill="#3b82f6"/>
+    <rect x="16" y="1" width="2" height="5" fill="#3b82f6"/>
+    <rect x="7" y="2" width="1" height="3" fill="#2563eb"/>
+    <rect x="16" y="2" width="1" height="3" fill="#2563eb"/>
+    <!-- Head -->
+    <rect x="6" y="5" width="12" height="7" rx="1" fill="#60a5fa"/>
+    <!-- Snout -->
+    <rect x="10" y="10" width="4" height="4" rx="1" fill="#93c5fd"/>
+    <!-- Eyes -->
+    <rect x="8" y="7" width="2" height="2" fill="#fbbf24"/>
+    <rect x="14" y="7" width="2" height="2" fill="#fbbf24"/>
+    <rect x="8" y="7" width="1" height="1" fill="#000"/>
+    <rect x="14" y="7" width="1" height="1" fill="#000"/>
+    <!-- Nose -->
+    <rect x="11" y="11" width="2" height="2" fill="#1e3a8a"/>
+    <!-- Body -->
+    <rect x="7" y="11" width="10" height="7" rx="1" fill="#60a5fa"/>
+    <!-- Pouch -->
+    <rect x="9" y="14" width="6" height="3" rx="1" fill="#3b82f6"/>
+    <!-- Big hind legs -->
+    <rect x="5" y="15" width="4" height="6" fill="#3b82f6"/>
+    <rect x="15" y="15" width="4" height="6" fill="#3b82f6"/>
+    <!-- Feet -->
+    <rect x="4" y="20" width="5" height="2" fill="#2563eb"/>
+    <rect x="15" y="20" width="5" height="2" fill="#2563eb"/>
+    <!-- Tail -->
+    <rect x="10" y="18" width="4" height="4" fill="#2563eb"/>
+    <rect x="11" y="21" width="2" height="2" fill="#1e40af"/>
+    <!-- Arms -->
+    <rect x="6" y="13" width="2" height="3" fill="#60a5fa"/>
+    <rect x="16" y="13" width="2" height="3" fill="#60a5fa"/>
+  </svg>

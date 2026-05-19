@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="512" height="512">
+    <!-- Ears -->
+    <rect x="5" y="1" width="3" height="4" fill="#3b82f6"/>
+    <rect x="16" y="1" width="3" height="4" fill="#3b82f6"/>
+    <rect x="6" y="2" width="1" height="2" fill="#1e40af"/>
+    <rect x="17" y="2" width="1" height="2" fill="#1e40af"/>
+    <!-- Mane -->
+    <rect x="3" y="4" width="18" height="5" rx="1" fill="#2563eb"/>
+    <rect x="4" y="3" width="2" height="3" fill="#1e40af"/>
+    <rect x="18" y="3" width="2" height="3" fill="#1e40af"/>
+    <rect x="8" y="2" width="2" height="3" fill="#1e40af"/>
+    <rect x="14" y="2" width="2" height="3" fill="#1e40af"/>
+    <!-- Head -->
+    <rect x="5" y="6" width="14" height="9" rx="1" fill="#60a5fa"/>
+    <!-- Eyes -->
+    <rect x="7" y="8" width="3" height="2" fill="#fbbf24"/>
+    <rect x="14" y="8" width="3" height="2" fill="#fbbf24"/>
+    <rect x="8" y="8" width="1" height="1" fill="#000"/>
+    <rect x="15" y="8" width="1" height="1" fill="#000"/>
+    <!-- Nose -->
+    <rect x="11" y="11" width="2" height="2" fill="#1e3a8a"/>
+    <!-- Mouth -->
+    <rect x="10" y="13" width="4" height="1" fill="#0a0a0f"/>
+    <!-- Body -->
+    <rect x="6" y="14" width="12" height="7" rx="1" fill="#60a5fa"/>
+    <!-- Arms next to body (half size) -->
+    <rect x="5" y="16" width="1" height="2" fill="#2563eb"/>
+    <rect x="18" y="16" width="1" height="2" fill="#2563eb"/>
+    <!-- White fangs — after body so they render ON TOP -->
+    <rect x="9" y="14" width="1" height="2" fill="#fff"/>
+    <rect x="14" y="14" width="1" height="2" fill="#fff"/>
+    <!-- Legs -->
+    <rect x="7" y="19" width="3" height="4" fill="#3b82f6"/>
+    <rect x="14" y="19" width="3" height="4" fill="#3b82f6"/>
+    <!-- Paws -->
+    <rect x="6" y="22" width="4" height="1" fill="#1e40af"/>
+    <rect x="14" y="22" width="4" height="1" fill="#1e40af"/>
+    <!-- Small tail, extends out then goes UP — connected to body -->
+    <rect x="18" y="20" width="3" height="1" fill="#3b82f6"/>
+    <!-- Big square 3/4 (skip bottom-right) -->
+    <rect x="20" y="19" width="1" height="1" fill="#3b82f6"/>
+    <rect x="21" y="19" width="1" height="1" fill="#3b82f6"/>
+    <rect x="20" y="20" width="1" height="1" fill="#3b82f6"/>
+    <rect x="21" y="17" width="1" height="2" fill="#3b82f6"/>
+    <rect x="21" y="16" width="1" height="1" fill="#2563eb"/>
+  </svg>

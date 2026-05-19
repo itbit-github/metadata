@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="512" height="512">
+    <!-- === DJINN FIGURE (top left, formed from smoke) === -->
+    <!-- Head -->
+    <rect x="3" y="2" width="6" height="5" rx="1" fill="#7c3aed"/>
+    <rect x="4" y="3" width="4" height="3" fill="#a855f7"/>
+    <!-- Topknot -->
+    <rect x="5" y="0" width="2" height="2" fill="#fbbf24"/>
+    <rect x="5" y="0" width="1" height="1" fill="#fff"/>
+    <!-- Eyes (glowing gold) -->
+    <rect x="4" y="4" width="1" height="1" fill="#fbbf24"/>
+    <rect x="7" y="4" width="1" height="1" fill="#fbbf24"/>
+    <rect x="4" y="4" width="1" height="1" fill="#fff" opacity="0.5"/>
+    <rect x="7" y="4" width="1" height="1" fill="#fff" opacity="0.5"/>
+    <!-- Earrings -->
+    <rect x="2" y="5" width="1" height="1" fill="#fbbf24"/>
+    <rect x="9" y="5" width="1" height="1" fill="#fbbf24"/>
+    <!-- Arms crossed -->
+    <rect x="1" y="7" width="4" height="2" fill="#7c3aed"/>
+    <rect x="7" y="7" width="4" height="2" fill="#7c3aed"/>
+    <rect x="2" y="8" width="3" height="2" fill="#6d28d9"/>
+    <rect x="7" y="8" width="3" height="2" fill="#6d28d9"/>
+    <!-- Hands -->
+    <rect x="1" y="9" width="2" height="2" fill="#fde68a"/>
+    <rect x="9" y="9" width="2" height="2" fill="#fde68a"/>
+    <!-- Torso -->
+    <rect x="2" y="6" width="8" height="6" rx="1" fill="#7c3aed"/>
+    <rect x="3" y="7" width="6" height="4" fill="#a855f7"/>
+    <!-- Gold sash -->
+    <rect x="2" y="10" width="8" height="1" fill="#fbbf24"/>
+    <rect x="4" y="10" width="4" height="1" fill="#fef3c7"/>
+    <!-- === MAGIC LAMP (centered bottom, classic shape) === -->
+    <!-- Base / foot -->
+    <rect x="12" y="22" width="8" height="1" fill="#92400e"/>
+    <rect x="13" y="23" width="6" height="1" fill="#78350f"/>
+    <!-- Lower body (round belly) -->
+    <rect x="11" y="18" width="10" height="4" rx="2" fill="#f59e0b"/>
+    <rect x="12" y="19" width="8" height="3" fill="#fbbf24"/>
+    <rect x="14" y="20" width="4" height="2" fill="#fef3c7"/>
+    <!-- Upper rim / shoulder -->
+    <rect x="13" y="16" width="6" height="2" fill="#f59e0b"/>
+    <rect x="14" y="16" width="4" height="2" fill="#fbbf24"/>
+    <!-- Neck -->
+    <rect x="14" y="15" width="4" height="1" fill="#d97706"/>
+    <!-- Opening rim -->
+    <rect x="13" y="14" width="6" height="1" fill="#f59e0b"/>
+    <rect x="14" y="14" width="4" height="1" fill="#fef3c7"/>
+    <!-- Lid / cap -->
+    <rect x="15" y="13" width="2" height="1" fill="#fbbf24"/>
+    <rect x="15" y="12" width="2" height="1" fill="#fff"/>
+    <!-- Spout (left side, curves up and out) -->
+    <rect x="8" y="17" width="5" height="2" fill="#f59e0b"/>
+    <rect x="7" y="16" width="3" height="2" fill="#fbbf24"/>
+    <rect x="6" y="15" width="2" height="2" fill="#fef3c7"/>
+    <rect x="5" y="14" width="2" height="1" fill="#fff"/>
+    <!-- Handle (right side, classic ear shape) -->
+    <rect x="20" y="17" width="3" height="3" rx="1" fill="#f59e0b"/>
+    <rect x="21" y="18" width="2" height="2" fill="#fbbf24"/>
+    <rect x="21" y="17" width="1" height="1" fill="#fef3c7"/>
+    <!-- Inner glow -->
+    <rect x="15" y="19" width="2" height="1" fill="#fef3c7" opacity="0.9"/>
+    <rect x="14" y="18" width="4" height="1" fill="#fde68a" opacity="0.6"/>
+  </svg>

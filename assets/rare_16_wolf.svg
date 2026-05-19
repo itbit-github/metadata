@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="512" height="512">
+    <!-- Ears -->
+    <rect x="5" y="1" width="3" height="4" fill="#3b82f6"/>
+    <rect x="16" y="1" width="3" height="4" fill="#3b82f6"/>
+    <rect x="6" y="2" width="1" height="2" fill="#f472b6"/>
+    <rect x="17" y="2" width="1" height="2" fill="#f472b6"/>
+    <!-- Head -->
+    <rect x="4" y="4" width="16" height="9" rx="1" fill="#60a5fa"/>
+    <!-- Face mask -->
+    <rect x="6" y="5" width="4" height="5" fill="#3b82f6"/>
+    <rect x="14" y="5" width="4" height="5" fill="#3b82f6"/>
+    <!-- Eyes -->
+    <rect x="7" y="6" width="2" height="2" fill="#fbbf24"/>
+    <rect x="15" y="6" width="2" height="2" fill="#fbbf24"/>
+    <rect x="7" y="6" width="1" height="1" fill="#000"/>
+    <rect x="15" y="6" width="1" height="1" fill="#000"/>
+    <!-- Snout -->
+    <rect x="10" y="10" width="4" height="3" fill="#e5e7eb"/>
+    <!-- Nose -->
+    <rect x="11" y="9" width="2" height="2" fill="#000"/>
+    <!-- Mouth -->
+    <rect x="11" y="12" width="2" height="1" fill="#0a0a0f"/>
+    <!-- Big body -->
+    <rect x="4" y="12" width="16" height="10" rx="1" fill="#60a5fa"/>
+    <!-- Chest fur -->
+    <rect x="8" y="13" width="8" height="4" rx="1" fill="#93c5fd"/>
+    <!-- Front legs -->
+    <rect x="6" y="17" width="3" height="5" fill="#3b82f6"/>
+    <rect x="15" y="17" width="3" height="5" fill="#3b82f6"/>
+    <!-- Paws -->
+    <rect x="5" y="21" width="4" height="2" fill="#1e40af"/>
+    <rect x="15" y="21" width="4" height="2" fill="#1e40af"/>
+    <!-- Hind legs -->
+    <rect x="4" y="16" width="3" height="4" fill="#3b82f6"/>
+    <rect x="17" y="16" width="3" height="4" fill="#3b82f6"/>
+    <!-- Tail -->
+    <rect x="19" y="14" width="3" height="3" fill="#3b82f6"/>
+    <rect x="20" y="13" width="2" height="2" fill="#3b82f6"/>
+  </svg>

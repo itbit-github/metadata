@@ -1,0 +1,29 @@
+{
+  "name": "SmokR Common #10",
+  "symbol": "SMOKRC",
+  "description": "SmokR Common NFT #10",
+  "image": "https://raw.githubusercontent.com/smokr/metadata/main/assets/common_09_pixel_chick.svg",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Design Number",
+      "value": 9
+    },
+    {
+      "trait_type": "Max Supply",
+      "value": 10
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/smokr/metadata/main/assets/common_09_pixel_chick.svg",
+        "type": "image/svg+xml"
+      }
+    ],
+    "category": "image"
+  }
+}

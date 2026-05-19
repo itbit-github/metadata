@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="512" height="512">
+    <!-- Ears -->
+    <rect x="5" y="3" width="3" height="3" fill="${LEG_COLOR}"/>
+    <rect x="16" y="3" width="3" height="3" fill="${LEG_COLOR}"/>
+    <rect x="6" y="4" width="1" height="1" fill="${LEG_ACCENT}"/>
+    <rect x="17" y="4" width="1" height="1" fill="${LEG_ACCENT}"/>
+    <!-- Crown -->
+    <rect x="4" y="2" width="16" height="2" fill="${LEG_COLOR}"/>
+    <rect x="5" y="2" width="14" height="1" fill="${LEG_ACCENT}"/>
+    <rect x="4" y="1" width="2" height="2" fill="${LEG_COLOR}"/>
+    <rect x="7" y="0" width="3" height="3" fill="${LEG_COLOR}"/>
+    <rect x="11" y="0" width="2" height="3" fill="${LEG_COLOR}"/>
+    <rect x="14" y="0" width="3" height="3" fill="${LEG_COLOR}"/>
+    <rect x="18" y="1" width="2" height="2" fill="${LEG_COLOR}"/>
+    <rect x="5" y="1" width="1" height="1" fill="#ef4444"/>
+    <rect x="8" y="0" width="1" height="1" fill="#3b82f6"/>
+    <rect x="11" y="0" width="2" height="1" fill="#ef4444"/>
+    <rect x="15" y="0" width="1" height="1" fill="#3b82f6"/>
+    <rect x="19" y="1" width="1" height="1" fill="#ef4444"/>
+    <rect x="11" y="2" width="2" height="1" fill="#22c55e"/>
+    <!-- Head -->
+    <rect x="4" y="5" width="16" height="3" fill="${LEG_COLOR}"/>
+    <!-- Body -->
+    <rect x="2" y="8" width="20" height="14" rx="1" fill="${LEG_COLOR}"/>
+    <!-- Elegant collar / scarf -->
+    <rect x="3" y="8" width="18" height="2" fill="#7c2d12"/>
+    <rect x="4" y="9" width="16" height="1" fill="#9a3412"/>
+    <!-- Scarf knot -->
+    <rect x="10" y="10" width="4" height="3" fill="#7c2d12"/>
+    <rect x="11" y="11" width="2" height="1" fill="#9a3412"/>
+    <!-- Scarf tails -->
+    <rect x="8" y="12" width="3" height="4" fill="#7c2d12"/>
+    <rect x="13" y="12" width="3" height="4" fill="#7c2d12"/>
+    <rect x="9" y="13" width="1" height="2" fill="#9a3412"/>
+    <rect x="14" y="13" width="1" height="2" fill="#9a3412"/>
+    <!-- Eyes (wise, kind) -->
+    <rect x="5" y="9" width="5" height="5" fill="${LEG_BG}"/>
+    <rect x="14" y="9" width="5" height="5" fill="${LEG_BG}"/>
+    <!-- Eye warmth -->
+    <rect x="6" y="10" width="3" height="3" fill="#fef3c7"/>
+    <rect x="15" y="10" width="3" height="3" fill="#fef3c7"/>
+    <!-- Pupils -->
+    <rect x="7" y="11" width="1" height="2" fill="#000"/>
+    <rect x="16" y="11" width="1" height="2" fill="#000"/>
+    <!-- Eye highlights -->
+    <rect x="6" y="10" width="1" height="1" fill="#fff"/>
+    <rect x="15" y="10" width="1" height="1" fill="#fff"/>
+    <!-- Eyebrows (distinguished) -->
+    <rect x="5" y="8" width="4" height="1" fill="${LEG_DARK}"/>
+    <rect x="15" y="8" width="4" height="1" fill="${LEG_DARK}"/>
+    <!-- Snout -->
+    <rect x="9" y="13" width="6" height="4" fill="${LEG_ACCENT}"/>
+    <!-- Nose -->
+    <rect x="11" y="14" width="2" height="2" fill="#1f1f1f"/>
+    <!-- Mouth (gentle smile) -->
+    <rect x="10" y="17" width="1" height="1" fill="#1f1f1f"/>
+    <rect x="13" y="17" width="1" height="1" fill="#1f1f1f"/>
+    <rect x="11" y="17" width="2" height="1" fill="#1f1f1f"/>
+    <!-- Cheek fluff -->
+    <rect x="3" y="11" width="2" height="3" fill="${LEG_ACCENT}"/>
+    <rect x="19" y="11" width="2" height="3" fill="${LEG_ACCENT}"/>
+    <!-- Paws -->
+    <rect x="5" y="19" width="4" height="3" fill="${LEG_COLOR}"/>
+    <rect x="15" y="19" width="4" height="3" fill="${LEG_COLOR}"/>
+    <rect x="6" y="20" width="2" height="1" fill="${LEG_ACCENT}"/>
+    <rect x="16" y="20" width="2" height="1" fill="${LEG_ACCENT}"/>
+    <!-- Belly -->
+    <rect x="7" y="16" width="10" height="5" fill="${LEG_ACCENT}" opacity="0.3"/>
+  </svg>

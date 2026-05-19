@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="512" height="512">
+    <!-- External gill frills — iconic feathery tufts -->
+    <rect x="4" y="2" width="2" height="4" fill="#3b82f6"/>
+    <rect x="6" y="1" width="2" height="5" fill="#60a5fa"/>
+    <rect x="8" y="2" width="2" height="4" fill="#3b82f6"/>
+    <rect x="14" y="2" width="2" height="4" fill="#3b82f6"/>
+    <rect x="16" y="1" width="2" height="5" fill="#60a5fa"/>
+    <rect x="18" y="2" width="2" height="4" fill="#3b82f6"/>
+    <!-- Wide smiling head -->
+    <rect x="7" y="5" width="10" height="6" rx="2" fill="#60a5fa"/>
+    <!-- Eyes -->
+    <rect x="8" y="7" width="2" height="2" fill="#fbbf24"/>
+    <rect x="14" y="7" width="2" height="2" fill="#fbbf24"/>
+    <rect x="8" y="7" width="1" height="1" fill="#000"/>
+    <rect x="14" y="7" width="1" height="1" fill="#000"/>
+    <!-- Smile -->
+    <rect x="10" y="10" width="4" height="1" fill="#1e3a8a"/>
+    <!-- Tiny nostrils -->
+    <rect x="10" y="9" width="1" height="1" fill="#1e40af"/>
+    <rect x="13" y="9" width="1" height="1" fill="#1e40af"/>
+    <!-- Plump body -->
+    <rect x="6" y="11" width="12" height="7" rx="3" fill="#3b82f6"/>
+    <!-- Belly -->
+    <rect x="8" y="14" width="8" height="3" rx="1" fill="#93c5fd"/>
+    <!-- Small stubby legs -->
+    <rect x="7" y="17" width="2" height="3" fill="#1e40af"/>
+    <rect x="15" y="17" width="2" height="3" fill="#1e40af"/>
+    <rect x="10" y="18" width="2" height="2" fill="#1e40af"/>
+    <rect x="12" y="18" width="2" height="2" fill="#1e40af"/>
+    <!-- Flat tail -->
+    <rect x="10" y="19" width="4" height="3" rx="1" fill="#60a5fa"/>
+    <rect x="11" y="21" width="2" height="2" fill="#3b82f6"/>
+  </svg>

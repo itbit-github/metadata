@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="512" height="512">
+    <!-- Ears -->
+    <rect x="4" y="3" width="4" height="6" rx="1" fill="#3b82f6"/>
+    <rect x="16" y="3" width="4" height="6" rx="1" fill="#3b82f6"/>
+    <!-- Head -->
+    <rect x="6" y="5" width="12" height="9" rx="1" fill="#60a5fa"/>
+    <!-- Face -->
+    <rect x="8" y="7" width="3" height="4" fill="#e5e7eb"/>
+    <rect x="13" y="7" width="3" height="4" fill="#e5e7eb"/>
+    <!-- Eyes -->
+    <rect x="9" y="8" width="1" height="1" fill="#000"/>
+    <rect x="14" y="8" width="1" height="1" fill="#000"/>
+    <rect x="9" y="8" width="1" height="1" fill="#fbbf24"/>
+    <rect x="14" y="8" width="1" height="1" fill="#fbbf24"/>
+    <!-- Nose -->
+    <rect x="11" y="10" width="2" height="2" fill="#0a0a0f"/>
+    <!-- Mouth -->
+    <rect x="11" y="12" width="2" height="1" fill="#0a0a0f"/>
+    <!-- Tongue -->
+    <rect x="11" y="13" width="2" height="1" fill="#f472b6"/>
+    <!-- Collar -->
+    <rect x="7" y="14" width="10" height="2" fill="#ef4444"/>
+    <rect x="11" y="14" width="2" height="2" fill="#fbbf24"/>
+    <!-- Body -->
+    <rect x="6" y="16" width="12" height="6" rx="1" fill="#60a5fa"/>
+    <!-- Belly -->
+    <rect x="8" y="17" width="8" height="4" fill="#e5e7eb"/>
+    <!-- Legs -->
+    <rect x="6" y="19" width="3" height="4" fill="#3b82f6"/>
+    <rect x="15" y="19" width="3" height="4" fill="#3b82f6"/>
+    <rect x="7" y="22" width="2" height="1" fill="#0a0a0f"/>
+    <rect x="15" y="22" width="2" height="1" fill="#0a0a0f"/>
+    <!-- Tail -->
+    <rect x="17" y="16" width="3" height="2" fill="#60a5fa"/>
+    <rect x="19" y="14" width="2" height="3" fill="#3b82f6"/>
+    <rect x="20" y="12" width="2" height="3" fill="#60a5fa"/>
+  </svg>

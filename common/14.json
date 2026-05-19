@@ -1,0 +1,29 @@
+{
+  "name": "SmokR Common #14",
+  "symbol": "SMOKRC",
+  "description": "SmokR Common NFT #14",
+  "image": "https://raw.githubusercontent.com/smokr/metadata/main/assets/common_13_teddy_bear.svg",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Design Number",
+      "value": 13
+    },
+    {
+      "trait_type": "Max Supply",
+      "value": 10
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/smokr/metadata/main/assets/common_13_teddy_bear.svg",
+        "type": "image/svg+xml"
+      }
+    ],
+    "category": "image"
+  }
+}

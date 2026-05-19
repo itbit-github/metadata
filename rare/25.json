@@ -1,0 +1,29 @@
+{
+  "name": "SmokR Rare #25",
+  "symbol": "SMOKRR",
+  "description": "SmokR Rare NFT #25",
+  "image": "https://raw.githubusercontent.com/smokr/metadata/main/assets/rare_25_jellyfish.svg",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Design Number",
+      "value": 25
+    },
+    {
+      "trait_type": "Max Supply",
+      "value": 10
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/smokr/metadata/main/assets/rare_25_jellyfish.svg",
+        "type": "image/svg+xml"
+      }
+    ],
+    "category": "image"
+  }
+}

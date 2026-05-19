@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="512" height="512">
+    <!-- Pointy ears — 1px toward center -->
+    <rect x="7" y="2" width="3" height="4" fill="#3b82f6"/>
+    <rect x="14" y="2" width="3" height="4" fill="#3b82f6"/>
+    <rect x="8" y="1" width="2" height="3" fill="#2563eb"/>
+    <rect x="14" y="1" width="2" height="3" fill="#2563eb"/>
+    <!-- Head -->
+    <rect x="7" y="6" width="10" height="7" rx="2" fill="#60a5fa"/>
+    <!-- Eyes -->
+    <rect x="9" y="8" width="2" height="2" fill="#fbbf24"/>
+    <rect x="13" y="8" width="2" height="2" fill="#fbbf24"/>
+    <rect x="9" y="8" width="1" height="1" fill="#000"/>
+    <rect x="13" y="8" width="1" height="1" fill="#000"/>
+    <!-- Pink nose -->
+    <rect x="11" y="10" width="2" height="1" fill="#f472b6"/>
+    <!-- Mouth -->
+    <rect x="11" y="11" width="2" height="1" fill="#1e3a8a"/>
+    <!-- Whiskers -->
+    <rect x="4" y="9" width="4" height="1" fill="#93c5fd"/>
+    <rect x="4" y="11" width="4" height="1" fill="#93c5fd"/>
+    <rect x="16" y="9" width="4" height="1" fill="#93c5fd"/>
+    <rect x="16" y="11" width="4" height="1" fill="#93c5fd"/>
+    <!-- Body -->
+    <rect x="6" y="13" width="12" height="7" rx="3" fill="#3b82f6"/>
+    <!-- Belly -->
+    <rect x="8" y="15" width="8" height="4" rx="1" fill="#93c5fd"/>
+    <!-- Front legs -->
+    <rect x="8" y="18" width="2" height="4" fill="#1e40af"/>
+    <rect x="14" y="18" width="2" height="4" fill="#1e40af"/>
+    <!-- Paws -->
+    <rect x="7" y="22" width="3" height="1" fill="#1e3a8a"/>
+    <rect x="14" y="22" width="3" height="1" fill="#1e3a8a"/>
+    <!-- Tail behind — up 1 more px -->
+    <rect x="16" y="17" width="5" height="2" fill="#3b82f6"/>
+    <rect x="19" y="15" width="3" height="3" rx="1" fill="#2563eb"/>
+  </svg>

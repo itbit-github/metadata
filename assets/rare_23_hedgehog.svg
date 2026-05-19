@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="512" height="512">
+    <!-- Spikes top -->
+    <rect x="4" y="2" width="2" height="4" fill="#1e40af"/>
+    <rect x="6" y="1" width="2" height="5" fill="#2563eb"/>
+    <rect x="8" y="2" width="2" height="4" fill="#1e40af"/>
+    <rect x="10" y="1" width="2" height="5" fill="#2563eb"/>
+    <rect x="12" y="2" width="2" height="4" fill="#1e40af"/>
+    <rect x="14" y="1" width="2" height="5" fill="#2563eb"/>
+    <rect x="16" y="2" width="2" height="4" fill="#1e40af"/>
+    <rect x="18" y="3" width="2" height="3" fill="#1e40af"/>
+    <!-- Body -->
+    <rect x="4" y="6" width="16" height="12" rx="2" fill="#60a5fa"/>
+    <!-- Face -->
+    <rect x="8" y="8" width="8" height="8" rx="1" fill="#93c5fd"/>
+    <!-- Eyes -->
+    <rect x="9" y="10" width="2" height="2" fill="#fbbf24"/>
+    <rect x="13" y="10" width="2" height="2" fill="#fbbf24"/>
+    <rect x="9" y="10" width="1" height="1" fill="#000"/>
+    <rect x="13" y="10" width="1" height="1" fill="#000"/>
+    <!-- Nose -->
+    <rect x="11" y="13" width="2" height="2" fill="#1e3a8a"/>
+    <!-- Mouth -->
+    <rect x="11" y="15" width="2" height="1" fill="#0a0a0f"/>
+    <!-- Legs -->
+    <rect x="6" y="17" width="3" height="4" fill="#3b82f6"/>
+    <rect x="15" y="17" width="3" height="4" fill="#3b82f6"/>
+  </svg>

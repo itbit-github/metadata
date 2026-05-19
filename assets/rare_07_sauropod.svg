@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="512" height="512">
+    <!-- Neck -->
+    <rect x="16" y="2" width="4" height="10" fill="#60a5fa"/>
+    <rect x="15" y="3" width="2" height="8" fill="#3b82f6"/>
+    <!-- Head -->
+    <rect x="15" y="1" width="6" height="3" rx="1" fill="#60a5fa"/>
+    <!-- Eye -->
+    <rect x="17" y="2" width="1" height="1" fill="#fbbf24"/>
+    <!-- Body -->
+    <rect x="6" y="10" width="14" height="8" rx="2" fill="#60a5fa"/>
+    <!-- Belly -->
+    <rect x="8" y="12" width="10" height="5" fill="#3b82f6"/>
+    <!-- Spots -->
+    <rect x="10" y="11" width="1" height="1" fill="#0a0a0f"/>
+    <rect x="14" y="13" width="1" height="1" fill="#0a0a0f"/>
+    <rect x="12" y="15" width="1" height="1" fill="#0a0a0f"/>
+    <!-- Tail -->
+    <rect x="2" y="12" width="5" height="4" fill="#60a5fa"/>
+    <rect x="1" y="13" width="2" height="3" fill="#60a5fa"/>
+    <!-- Legs -->
+    <rect x="7" y="17" width="3" height="5" fill="#3b82f6"/>
+    <rect x="16" y="17" width="3" height="5" fill="#3b82f6"/>
+    <rect x="11" y="18" width="3" height="4" fill="#3b82f6"/>
+  </svg>

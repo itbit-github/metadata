@@ -1,0 +1,29 @@
+{
+  "name": "SmokR Rare #19",
+  "symbol": "SMOKRR",
+  "description": "SmokR Rare NFT #19",
+  "image": "https://raw.githubusercontent.com/smokr/metadata/main/assets/rare_19_cat.svg",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Design Number",
+      "value": 19
+    },
+    {
+      "trait_type": "Max Supply",
+      "value": 10
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/smokr/metadata/main/assets/rare_19_cat.svg",
+        "type": "image/svg+xml"
+      }
+    ],
+    "category": "image"
+  }
+}

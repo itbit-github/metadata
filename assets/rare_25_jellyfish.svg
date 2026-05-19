@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="512" height="512">
+    <!-- Bell dome -->
+    <rect x="6" y="3" width="12" height="7" rx="3" fill="#60a5fa"/>
+    <!-- Bell top shine -->
+    <rect x="8" y="4" width="8" height="3" rx="1" fill="#93c5fd"/>
+    <!-- Bell rim -->
+    <rect x="5" y="9" width="14" height="2" rx="1" fill="#3b82f6"/>
+    <!-- Tentacles -->
+    <rect x="7" y="11" width="1" height="5" fill="#2563eb"/>
+    <rect x="9" y="11" width="1" height="7" fill="#3b82f6"/>
+    <rect x="11" y="11" width="1" height="6" fill="#2563eb"/>
+    <rect x="13" y="11" width="1" height="8" fill="#3b82f6"/>
+    <rect x="15" y="11" width="1" height="5" fill="#2563eb"/>
+    <!-- Long trailing tentacles -->
+    <rect x="8" y="13" width="1" height="9" fill="#1e40af"/>
+    <rect x="12" y="14" width="1" height="8" fill="#1e40af"/>
+    <rect x="16" y="13" width="1" height="9" fill="#1e40af"/>
+    <!-- Glow spots -->
+    <rect x="9" y="6" width="1" height="1" fill="#fbbf24"/>
+    <rect x="14" y="7" width="1" height="1" fill="#fbbf24"/>
+  </svg>

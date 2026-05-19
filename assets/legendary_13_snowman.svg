@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="512" height="512">
+    <!-- Bottom ball -->
+    <rect x="5" y="13" width="14" height="10" rx="1" fill="#e5e7eb"/>
+    <rect x="6" y="14" width="12" height="8" fill="#fff"/>
+    <!-- Middle ball -->
+    <rect x="6" y="6" width="12" height="8" rx="1" fill="#e5e7eb"/>
+    <rect x="7" y="7" width="10" height="6" fill="#fff"/>
+    <!-- Head -->
+    <rect x="8" y="2" width="8" height="6" rx="1" fill="#e5e7eb"/>
+    <rect x="9" y="3" width="6" height="4" fill="#fff"/>
+    <!-- Eyes -->
+    <rect x="10" y="4" width="1" height="1" fill="#000"/>
+    <rect x="14" y="4" width="1" height="1" fill="#000"/>
+    <!-- Nose (carrot) -->
+    <rect x="11" y="5" width="2" height="1" fill="#f97316"/>
+    <rect x="13" y="5" width="2" height="1" fill="#ea580c"/>
+    <!-- Mouth -->
+    <rect x="10" y="6" width="1" height="1" fill="#000"/>
+    <rect x="11" y="6" width="1" height="1" fill="#000"/>
+    <rect x="13" y="6" width="1" height="1" fill="#000"/>
+    <rect x="14" y="6" width="1" height="1" fill="#000"/>
+    <!-- Buttons -->
+    <rect x="11" y="9" width="2" height="1" fill="#1a1a1a"/>
+    <rect x="11" y="12" width="2" height="1" fill="#1a1a1a"/>
+    <rect x="11" y="17" width="2" height="1" fill="#1a1a1a"/>
+    <!-- Arms (sticks) -->
+    <rect x="2" y="9" width="4" height="1" fill="#7c2d12"/>
+    <rect x="18" y="9" width="4" height="1" fill="#7c2d12"/>
+    <rect x="1" y="8" width="1" height="2" fill="#7c2d12"/>
+    <rect x="22" y="8" width="1" height="2" fill="#7c2d12"/>
+    <!-- Scarf -->
+    <rect x="7" y="8" width="10" height="2" fill="#dc2626"/>
+    <rect x="14" y="9" width="2" height="4" fill="#dc2626"/>
+  </svg>

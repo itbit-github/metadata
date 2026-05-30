@@ -1,0 +1,33 @@
+{
+  "name": "SmokR Common Banner #4",
+  "symbol": "SMOKRBC",
+  "description": "SmokR Common Banner NFT #4",
+  "image": "https://raw.githubusercontent.com/itbit-github/metadata/main/banners/common/4.png",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Banner"
+    },
+    {
+      "trait_type": "Design Number",
+      "value": 4
+    },
+    {
+      "trait_type": "Rarity",
+      "value": 34
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/itbit-github/metadata/main/banners/common/4.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

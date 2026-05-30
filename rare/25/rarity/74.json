@@ -1,0 +1,33 @@
+{
+  "name": "SmokR Rare #25",
+  "symbol": "SMOKRR",
+  "description": "SmokR Rare NFT #25",
+  "image": "https://raw.githubusercontent.com/itbit-github/metadata/main/assets/rare_25_jellyfish.svg",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Avatar"
+    },
+    {
+      "trait_type": "Design Number",
+      "value": 25
+    },
+    {
+      "trait_type": "Rarity",
+      "value": 74
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/itbit-github/metadata/main/assets/rare_25_jellyfish.svg",
+        "type": "image/svg+xml"
+      }
+    ],
+    "category": "image"
+  }
+}

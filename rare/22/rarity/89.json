@@ -1,0 +1,33 @@
+{
+  "name": "SmokR Rare #22",
+  "symbol": "SMOKRR",
+  "description": "SmokR Rare NFT #22",
+  "image": "https://raw.githubusercontent.com/itbit-github/metadata/main/assets/rare_22_gorilla.svg",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Avatar"
+    },
+    {
+      "trait_type": "Design Number",
+      "value": 22
+    },
+    {
+      "trait_type": "Rarity",
+      "value": 89
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/itbit-github/metadata/main/assets/rare_22_gorilla.svg",
+        "type": "image/svg+xml"
+      }
+    ],
+    "category": "image"
+  }
+}

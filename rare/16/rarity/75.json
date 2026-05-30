@@ -1,0 +1,33 @@
+{
+  "name": "SmokR Rare #16",
+  "symbol": "SMOKRR",
+  "description": "SmokR Rare NFT #16",
+  "image": "https://raw.githubusercontent.com/itbit-github/metadata/main/assets/rare_16_wolf.svg",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Avatar"
+    },
+    {
+      "trait_type": "Design Number",
+      "value": 16
+    },
+    {
+      "trait_type": "Rarity",
+      "value": 75
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/itbit-github/metadata/main/assets/rare_16_wolf.svg",
+        "type": "image/svg+xml"
+      }
+    ],
+    "category": "image"
+  }
+}

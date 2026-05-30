@@ -1,0 +1,33 @@
+{
+  "name": "SmokR Legendary #19",
+  "symbol": "SMOKRL",
+  "description": "SmokR Legendary NFT #19",
+  "image": "https://raw.githubusercontent.com/itbit-github/metadata/main/assets/legendary_04_demon.svg",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Avatar"
+    },
+    {
+      "trait_type": "Design Number",
+      "value": 4
+    },
+    {
+      "trait_type": "Rarity",
+      "value": 96
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/itbit-github/metadata/main/assets/legendary_04_demon.svg",
+        "type": "image/svg+xml"
+      }
+    ],
+    "category": "image"
+  }
+}

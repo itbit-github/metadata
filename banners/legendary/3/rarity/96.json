@@ -1,0 +1,33 @@
+{
+  "name": "SmokR Legendary Banner #3",
+  "symbol": "SMOKRBL",
+  "description": "SmokR Legendary Banner NFT #3",
+  "image": "https://raw.githubusercontent.com/itbit-github/metadata/main/banners/legendary/3.png",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Banner"
+    },
+    {
+      "trait_type": "Design Number",
+      "value": 3
+    },
+    {
+      "trait_type": "Rarity",
+      "value": 96
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/itbit-github/metadata/main/banners/legendary/3.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

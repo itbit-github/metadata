@@ -1,0 +1,33 @@
+{
+  "name": "SmokR Rare Banner #1",
+  "symbol": "SMOKRBR",
+  "description": "SmokR Rare Banner NFT #1",
+  "image": "https://raw.githubusercontent.com/itbit-github/metadata/main/banners/rare/1.png",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Banner"
+    },
+    {
+      "trait_type": "Design Number",
+      "value": 1
+    },
+    {
+      "trait_type": "Rarity",
+      "value": 69
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/itbit-github/metadata/main/banners/rare/1.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

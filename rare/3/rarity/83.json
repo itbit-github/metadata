@@ -1,0 +1,33 @@
+{
+  "name": "SmokR Rare #3",
+  "symbol": "SMOKRR",
+  "description": "SmokR Rare NFT #3",
+  "image": "https://raw.githubusercontent.com/itbit-github/metadata/main/assets/rare_03_komodo_dragon.svg",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Avatar"
+    },
+    {
+      "trait_type": "Design Number",
+      "value": 3
+    },
+    {
+      "trait_type": "Rarity",
+      "value": 83
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/itbit-github/metadata/main/assets/rare_03_komodo_dragon.svg",
+        "type": "image/svg+xml"
+      }
+    ],
+    "category": "image"
+  }
+}

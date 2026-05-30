@@ -1,0 +1,33 @@
+{
+  "name": "SmokR Common #24",
+  "symbol": "SMOKRC",
+  "description": "SmokR Common NFT #24",
+  "image": "https://raw.githubusercontent.com/itbit-github/metadata/main/assets/common_23_pixel_robot.svg",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Avatar"
+    },
+    {
+      "trait_type": "Design Number",
+      "value": 23
+    },
+    {
+      "trait_type": "Rarity",
+      "value": 31
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/itbit-github/metadata/main/assets/common_23_pixel_robot.svg",
+        "type": "image/svg+xml"
+      }
+    ],
+    "category": "image"
+  }
+}

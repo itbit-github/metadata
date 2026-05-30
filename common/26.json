@@ -9,12 +9,12 @@
       "value": "Common"
     },
     {
-      "trait_type": "Design Number",
-      "value": 25
+      "trait_type": "Type",
+      "value": "Avatar"
     },
     {
-      "trait_type": "Max Supply",
-      "value": 10
+      "trait_type": "Design Number",
+      "value": 25
     }
   ],
   "properties": {

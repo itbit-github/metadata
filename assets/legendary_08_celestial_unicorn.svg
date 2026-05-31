@@ -16,10 +16,10 @@
     <rect x="14" y="8" width="2" height="10" fill="#c084fc"/>
     <rect x="15" y="10" width="1" height="6" fill="#ddd6fe"/>
     <!-- Big head (side facing left) -->
-    <rect x="4" y="6" width="11" height="11" rx="1" fill="${LEG_COLOR}"/>
-    <rect x="5" y="7" width="9" height="9" fill="${LEG_ACCENT}"/>
+    <rect x="4" y="6" width="11" height="11" rx="1" fill="#f5f5f5"/>
+    <rect x="5" y="7" width="9" height="9" fill="#fef3c7"/>
     <!-- Forehead -->
-    <rect x="4" y="6" width="8" height="3" fill="${LEG_ACCENT}"/>
+    <rect x="4" y="6" width="8" height="3" fill="#fef3c7"/>
     <!-- Snout (big) -->
     <rect x="0" y="11" width="5" height="6" rx="1" fill="#fde68a"/>
     <rect x="1" y="12" width="4" height="5" fill="#fef3c7"/>
@@ -28,14 +28,14 @@
     <!-- Mouth -->
     <rect x="1" y="15" width="2" height="1" fill="#1f1f1f"/>
     <!-- Big eye -->
-    <rect x="4" y="9" width="3" height="3" fill="${LEG_BG}"/>
+    <rect x="4" y="9" width="3" height="3" fill="#60a5fa"/>
     <rect x="5" y="9" width="2" height="3" fill="#60a5fa"/>
     <rect x="5" y="9" width="1" height="2" fill="#fff"/>
     <rect x="6" y="10" width="1" height="2" fill="#000"/>
     <!-- Eyelash -->
-    <rect x="4" y="8" width="3" height="1" fill="${LEG_DARK}"/>
+    <rect x="4" y="8" width="3" height="1" fill="#e5e5e5"/>
     <!-- Ear -->
-    <rect x="10" y="4" width="3" height="4" fill="${LEG_COLOR}"/>
+    <rect x="10" y="4" width="3" height="4" fill="#f5f5f5"/>
     <rect x="10" y="4" width="2" height="3" fill="#f9a8d4"/>
     <!-- Sharp horn (thick base → sharp tip) -->
     <!-- Tip (sharp point, 1px) -->
@@ -56,8 +56,8 @@
     <!-- Horn base connector -->
     <rect x="7" y="6" width="4" height="1" fill="#f59e0b"/>
     <!-- Neck -->
-    <rect x="8" y="15" width="5" height="5" fill="${LEG_COLOR}"/>
-    <rect x="8" y="16" width="4" height="3" fill="${LEG_ACCENT}"/>
+    <rect x="8" y="15" width="5" height="5" fill="#f5f5f5"/>
+    <rect x="8" y="16" width="4" height="3" fill="#fef3c7"/>
     <!-- Chest fluff -->
     <rect x="9" y="17" width="4" height="4" fill="#c084fc"/>
     <rect x="10" y="18" width="3" height="3" fill="#ddd6fe"/>

@@ -11,39 +11,39 @@
     <rect x="13" y="2" width="1" height="1" fill="#3b82f6"/>
     <rect x="11" y="3" width="2" height="1" fill="#22c55e"/>
     <!-- Mane (outer, large) -->
-    <rect x="3" y="4" width="18" height="3" fill="${LEG_DARK}"/>
-    <rect x="2" y="5" width="1" height="4" fill="${LEG_DARK}"/>
-    <rect x="21" y="5" width="1" height="4" fill="${LEG_DARK}"/>
-    <rect x="1" y="6" width="1" height="6" fill="${LEG_DARK}"/>
-    <rect x="22" y="6" width="1" height="6" fill="${LEG_DARK}"/>
-    <rect x="2" y="9" width="1" height="5" fill="${LEG_DARK}"/>
-    <rect x="21" y="9" width="1" height="5" fill="${LEG_DARK}"/>
-    <rect x="3" y="12" width="1" height="4" fill="${LEG_DARK}"/>
-    <rect x="20" y="12" width="1" height="4" fill="${LEG_DARK}"/>
-    <rect x="4" y="14" width="1" height="3" fill="${LEG_DARK}"/>
-    <rect x="19" y="14" width="1" height="3" fill="${LEG_DARK}"/>
+    <rect x="3" y="4" width="18" height="3" fill="#b45309"/>
+    <rect x="2" y="5" width="1" height="4" fill="#b45309"/>
+    <rect x="21" y="5" width="1" height="4" fill="#b45309"/>
+    <rect x="1" y="6" width="1" height="6" fill="#b45309"/>
+    <rect x="22" y="6" width="1" height="6" fill="#b45309"/>
+    <rect x="2" y="9" width="1" height="5" fill="#b45309"/>
+    <rect x="21" y="9" width="1" height="5" fill="#b45309"/>
+    <rect x="3" y="12" width="1" height="4" fill="#b45309"/>
+    <rect x="20" y="12" width="1" height="4" fill="#b45309"/>
+    <rect x="4" y="14" width="1" height="3" fill="#b45309"/>
+    <rect x="19" y="14" width="1" height="3" fill="#b45309"/>
     <!-- Mane (inner, lighter) -->
-    <rect x="4" y="5" width="16" height="2" fill="${LEG_COLOR}"/>
-    <rect x="3" y="6" width="2" height="4" fill="${LEG_COLOR}"/>
-    <rect x="19" y="6" width="2" height="4" fill="${LEG_COLOR}"/>
-    <rect x="2" y="7" width="2" height="4" fill="${LEG_COLOR}"/>
-    <rect x="20" y="7" width="2" height="4" fill="${LEG_COLOR}"/>
-    <rect x="3" y="10" width="2" height="3" fill="${LEG_COLOR}"/>
-    <rect x="19" y="10" width="2" height="3" fill="${LEG_COLOR}"/>
-    <rect x="4" y="12" width="2" height="3" fill="${LEG_COLOR}"/>
-    <rect x="18" y="12" width="2" height="3" fill="${LEG_COLOR}"/>
+    <rect x="4" y="5" width="16" height="2" fill="#f59e0b"/>
+    <rect x="3" y="6" width="2" height="4" fill="#f59e0b"/>
+    <rect x="19" y="6" width="2" height="4" fill="#f59e0b"/>
+    <rect x="2" y="7" width="2" height="4" fill="#f59e0b"/>
+    <rect x="20" y="7" width="2" height="4" fill="#f59e0b"/>
+    <rect x="3" y="10" width="2" height="3" fill="#f59e0b"/>
+    <rect x="19" y="10" width="2" height="3" fill="#f59e0b"/>
+    <rect x="4" y="12" width="2" height="3" fill="#f59e0b"/>
+    <rect x="18" y="12" width="2" height="3" fill="#f59e0b"/>
     <!-- Mane highlights -->
-    <rect x="5" y="6" width="2" height="1" fill="${LEG_ACCENT}"/>
-    <rect x="17" y="6" width="2" height="1" fill="${LEG_ACCENT}"/>
-    <rect x="4" y="8" width="1" height="2" fill="${LEG_ACCENT}"/>
-    <rect x="19" y="8" width="1" height="2" fill="${LEG_ACCENT}"/>
+    <rect x="5" y="6" width="2" height="1" fill="#fbbf24"/>
+    <rect x="17" y="6" width="2" height="1" fill="#fbbf24"/>
+    <rect x="4" y="8" width="1" height="2" fill="#fbbf24"/>
+    <rect x="19" y="8" width="1" height="2" fill="#fbbf24"/>
     <!-- Face base -->
-    <rect x="6" y="6" width="12" height="12" fill="${LEG_COLOR}"/>
+    <rect x="6" y="6" width="12" height="12" fill="#f59e0b"/>
     <!-- Forehead -->
-    <rect x="8" y="6" width="8" height="2" fill="${LEG_ACCENT}"/>
+    <rect x="8" y="6" width="8" height="2" fill="#fbbf24"/>
     <!-- Eyes (piercing, regal) -->
-    <rect x="7" y="8" width="4" height="4" fill="${LEG_BG}"/>
-    <rect x="13" y="8" width="4" height="4" fill="${LEG_BG}"/>
+    <rect x="7" y="8" width="4" height="4" fill="#78350f"/>
+    <rect x="13" y="8" width="4" height="4" fill="#78350f"/>
     <!-- Eye glow -->
     <rect x="8" y="9" width="2" height="2" fill="#fef3c7"/>
     <rect x="14" y="9" width="2" height="2" fill="#fef3c7"/>
@@ -51,27 +51,27 @@
     <rect x="9" y="10" width="1" height="1" fill="#000"/>
     <rect x="15" y="10" width="1" height="1" fill="#000"/>
     <!-- Nose bridge -->
-    <rect x="11" y="9" width="2" height="3" fill="${LEG_ACCENT}"/>
+    <rect x="11" y="9" width="2" height="3" fill="#fbbf24"/>
     <!-- Nose -->
     <rect x="10" y="12" width="4" height="2" fill="#1f1f1f"/>
     <rect x="11" y="12" width="2" height="1" fill="#000"/>
     <!-- Muzzle -->
-    <rect x="9" y="14" width="6" height="2" fill="${LEG_ACCENT}"/>
+    <rect x="9" y="14" width="6" height="2" fill="#fbbf24"/>
     <!-- Mouth -->
     <rect x="10" y="16" width="1" height="1" fill="#1f1f1f"/>
     <rect x="13" y="16" width="1" height="1" fill="#1f1f1f"/>
     <rect x="11" y="16" width="2" height="1" fill="#1f1f1f"/>
     <!-- Chin -->
-    <rect x="10" y="17" width="4" height="2" fill="${LEG_COLOR}"/>
+    <rect x="10" y="17" width="4" height="2" fill="#f59e0b"/>
     <!-- Fangs -->
     <rect x="9" y="16" width="1" height="2" fill="#fff"/>
     <rect x="14" y="16" width="1" height="2" fill="#fff"/>
     <!-- Whiskers -->
-    <rect x="4" y="11" width="2" height="1" fill="${LEG_ACCENT}" opacity="0.6"/>
-    <rect x="4" y="13" width="2" height="1" fill="${LEG_ACCENT}" opacity="0.6"/>
-    <rect x="18" y="11" width="2" height="1" fill="${LEG_ACCENT}" opacity="0.6"/>
-    <rect x="18" y="13" width="2" height="1" fill="${LEG_ACCENT}" opacity="0.6"/>
+    <rect x="4" y="11" width="2" height="1" fill="#fbbf24" opacity="0.6"/>
+    <rect x="4" y="13" width="2" height="1" fill="#fbbf24" opacity="0.6"/>
+    <rect x="18" y="11" width="2" height="1" fill="#fbbf24" opacity="0.6"/>
+    <rect x="18" y="13" width="2" height="1" fill="#fbbf24" opacity="0.6"/>
     <!-- Ear tufts -->
-    <rect x="6" y="5" width="2" height="1" fill="${LEG_DARK}"/>
-    <rect x="16" y="5" width="2" height="1" fill="${LEG_DARK}"/>
+    <rect x="6" y="5" width="2" height="1" fill="#b45309"/>
+    <rect x="16" y="5" width="2" height="1" fill="#b45309"/>
   </svg>

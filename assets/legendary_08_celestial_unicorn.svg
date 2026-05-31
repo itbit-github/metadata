@@ -16,27 +16,27 @@
     <rect x="14" y="8" width="2" height="10" fill="#c084fc"/>
     <rect x="15" y="10" width="1" height="6" fill="#ddd6fe"/>
     <!-- Big head (side facing left) -->
-    <rect x="4" y="6" width="11" height="11" rx="1" fill="#f5f5f5"/>
-    <rect x="5" y="7" width="9" height="9" fill="#fef3c7"/>
+    <rect x="4" y="6" width="11" height="11" rx="1" fill="#f59e0b"/>
+    <rect x="5" y="7" width="9" height="9" fill="#fbbf24"/>
     <!-- Forehead -->
-    <rect x="4" y="6" width="8" height="3" fill="#fef3c7"/>
+    <rect x="4" y="6" width="8" height="3" fill="#fbbf24"/>
     <!-- Snout (big) -->
     <rect x="0" y="11" width="5" height="6" rx="1" fill="#fde68a"/>
     <rect x="1" y="12" width="4" height="5" fill="#fef3c7"/>
     <!-- Nostril -->
-    <rect x="0" y="13" width="1" height="1" fill="#f472b6"/>
+    <rect x="0" y="13" width="1" height="1" fill="#ef4444"/>
     <!-- Mouth -->
     <rect x="1" y="15" width="2" height="1" fill="#1f1f1f"/>
     <!-- Big eye -->
-    <rect x="4" y="9" width="3" height="3" fill="#60a5fa"/>
-    <rect x="5" y="9" width="2" height="3" fill="#60a5fa"/>
+    <rect x="4" y="9" width="3" height="3" fill="#1e3a5f"/>
+    <rect x="5" y="9" width="2" height="3" fill="#1e3a5f"/>
     <rect x="5" y="9" width="1" height="2" fill="#fff"/>
     <rect x="6" y="10" width="1" height="2" fill="#000"/>
     <!-- Eyelash -->
-    <rect x="4" y="8" width="3" height="1" fill="#e5e5e5"/>
+    <rect x="4" y="8" width="3" height="1" fill="#d97706"/>
     <!-- Ear -->
-    <rect x="10" y="4" width="3" height="4" fill="#f5f5f5"/>
-    <rect x="10" y="4" width="2" height="3" fill="#f9a8d4"/>
+    <rect x="10" y="4" width="3" height="4" fill="#f59e0b"/>
+    <rect x="10" y="4" width="2" height="3" fill="#fbbf24"/>
     <!-- Sharp horn (thick base → sharp tip) -->
     <!-- Tip (sharp point, 1px) -->
     <rect x="5" y="0" width="1" height="1" fill="#fff"/>
@@ -56,10 +56,10 @@
     <!-- Horn base connector -->
     <rect x="7" y="6" width="4" height="1" fill="#f59e0b"/>
     <!-- Neck -->
-    <rect x="8" y="15" width="5" height="5" fill="#f5f5f5"/>
-    <rect x="8" y="16" width="4" height="3" fill="#fef3c7"/>
+    <rect x="8" y="15" width="5" height="5" fill="#f59e0b"/>
+    <rect x="8" y="16" width="4" height="3" fill="#fbbf24"/>
     <!-- Chest fluff -->
-    <rect x="9" y="17" width="4" height="4" fill="#c084fc"/>
-    <rect x="10" y="18" width="3" height="3" fill="#ddd6fe"/>
-    <rect x="11" y="19" width="2" height="2" fill="#a855f7"/>
+    <rect x="9" y="17" width="4" height="4" fill="#fbbf24"/>
+    <rect x="10" y="18" width="3" height="3" fill="#fef3c7"/>
+    <rect x="11" y="19" width="2" height="2" fill="#fde68a"/>
   </svg>
